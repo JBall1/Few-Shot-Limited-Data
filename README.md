@@ -1,4 +1,4 @@
-# Few-Shot-Image-Classification
+# A comparison and refinement of few-shot learning algorithims for the task of few shot/limited data classification of flowers.
 An analysis and comparison of transfer learning and meta-learning for the task of few-shot classification of flowers
 
 ## Data 
