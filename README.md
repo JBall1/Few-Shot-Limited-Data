@@ -1,5 +1,6 @@
 # A comparison and refinement of few-shot learning algorithims for the task of few shot/limited data classification of flowers.
-An analysis and comparison of transfer learning and meta-learning for the task of few-shot classification of flowers
+Paper: https://arxiv.org/abs/2105.03056
+
 
 ## Data 
 Data was collected from: https://www.kaggle.com/alxmamaev/flowers-recognition
